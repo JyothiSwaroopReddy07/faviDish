@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faviDish/static/css/main.ff9e9574.css",
+    "main.js": "/faviDish/static/js/main.02b088db.js",
+    "index.html": "/faviDish/index.html",
+    "main.ff9e9574.css.map": "/faviDish/static/css/main.ff9e9574.css.map",
+    "main.02b088db.js.map": "/faviDish/static/js/main.02b088db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9e9574.css",
+    "static/js/main.02b088db.js"
+  ]
+}
